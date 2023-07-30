@@ -23,3 +23,7 @@ The `LinearProbingHashTable` class implements a hash table using linear probing 
 Double hashing is a collision resolution technique for hash tables. It uses two hash functions to calculate the index for a key. If the first hash function results in a collision, the second hash function is used to increment the index until an empty slot is found.
 
 The `DoubleHashing` class implements double hashing for collision resolution in a hash table. The `insert` method inserts a key-value pair into the hash table, and the `get` method retrieves the value associated with a given key.
+
+# Hw4_P6
+
+The `Hw4_P6` class compares the performance of HashMap, ArrayList, and LinkedList for insertion and search operations.
